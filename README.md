@@ -2,6 +2,7 @@
 
 Modified to illustrate a naive strcmp password check that is vulnerable
 to timing attacks
+based on https://github.com/pminkov/webserver
 
 # Webserver
 
